@@ -7,4 +7,8 @@ its my third push
 my last change
 gfhdh
 new
+<<<<<<< HEAD
 one
+=======
+two
+>>>>>>> README.md is commiting
